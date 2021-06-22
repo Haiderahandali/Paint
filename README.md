@@ -3,10 +3,10 @@
 #### and also Window Resize.
 
 ## Depedencies:
-SDL library
+SDL2 library
 &nbsp;
 ## Compile: 
-#### g++ paint.cpp -std=c++17 -l SDL2 SDL2main -o paint && ./paint
+``` g++ paint.cpp -std=c++17 -l SDL2 SDL2main -o paint && ./paint```
 &nbsp;
 &nbsp;
 
